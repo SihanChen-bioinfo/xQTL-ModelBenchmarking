@@ -90,6 +90,7 @@ The output directory contains:
 - Trained model
 - Validation performance metrics
 - Feature importance scores
+- Prediction results (in predict mode)
 
 
 
