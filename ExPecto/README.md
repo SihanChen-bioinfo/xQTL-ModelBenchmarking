@@ -42,7 +42,7 @@ After generating chromatin feature files, use `ExPecto_xQTL_CV10.py` to train an
 ```bash
 python ExPecto_xQTL_CV10.py \
     --mode train \
-    --model l1 \
+    --model xgb \
     --auto_tune \
     --folds 5 \
     --vcf input.vcf \
