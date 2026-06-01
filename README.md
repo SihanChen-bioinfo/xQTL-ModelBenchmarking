@@ -15,7 +15,6 @@ This repository contains implementations for extracting chromatin feature predic
 │    └── AlphaGenome_predict_xQTL.py
 │ 
 ├── Borzoi/
-│    ├── runBorzoi.py
 │    └── Borzoi_predict_xQTL.py
 │ 
 ├── DeepSEA/
@@ -31,7 +30,6 @@ This repository contains implementations for extracting chromatin feature predic
 │    └── ExPecto_predict_xQTL.py
 │ 
 ├── GWAVA/
-│    ├── runGWAVA.py
 │    └──  GWAVA_predict_xQTL.py
 │ 
 └── feature_enrichment.py
