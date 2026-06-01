@@ -66,6 +66,7 @@ The output directory contains model training and evaluation results, including:
 - Trained model files
 - Performance metrics (AUROC, AUPRC, MCC, etc.)
 - Feature importance scores (when supported by the selected model)
+- Prediction results (in predict mode)
 
 
 
